@@ -2,12 +2,12 @@
 This is consumer project and if you haven't cloned the producer project for RabbitMQ. follow the `How does this work ?` instructions below.
 
 ## How Does this Work ?
-1. `Clone Producer` Repository
-2. `Clone` this `Consumer` Repository
+1. Clone Producer Repository by running `git clone https://github.com/manojselvin/message-queue-producer`
+2. Clone this Consumer Repository `git clone https://github.com/manojselvin/message-queue-worker`
 3. Run Both the projects by following the steps mentioned to run the project in each projects `README.md` file.
 
 ## Steps to Run Consumer Project
-1. Clone this project
+1. Clone this project by running `git clone https://github.com/manojselvin/message-queue-worker`
 2. `cd` into `project dir`
 3. Complete `Steps to generate Connection URL for RabbitMQ`. 
 4. run `npm install` to install all dependencies
